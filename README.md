@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript frameworks**
 
-- 👨‍💻 All of my projects are available at [https://adeebnaeem.github.io/portfolio/](https://adeebnaeem.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://adeebnaeem.github.io/portfolio/](https://adeebnaeem.github.io/adeeb-portfolio/)
 
 - 📫 How to reach me **adeebnaeem54@gmail.com**
 

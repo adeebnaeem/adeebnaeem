@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **adeebnaeem54@gmail.com**
 
-- 📄 Know about my experiences [https://adeebnaeem.github.io/portfolio/images/img-blank.pdf](https://adeebnaeem.github.io/portfolio/images/img-blank.pdf)
-
 - ⚡ Fun fact **I can Code 😜**
 
 <h3 align="left">Connect with me:</h3>
